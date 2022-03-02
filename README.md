@@ -1,0 +1,2 @@
+# IkiyeBolme_NewtonRaphson_Dogrusal-Interpolasyon_FixPoint_Metodlari
+IkiyeBolme_NewtonRaphson_Dogrusal Interpolasyon_FixPoint_Metodlarin c++ kodları
